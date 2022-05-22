@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="macro_charC.h">
+    <ClInclude Include="PASSCHECK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PASSREADACCESS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

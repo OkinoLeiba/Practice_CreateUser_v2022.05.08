@@ -154,7 +154,8 @@
     <ClCompile Include="practice_CreateUser_v2022.05.08.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="THESOURCE_H.h" />
+    <ClInclude Include="PASSCHECK.h" />
+    <ClInclude Include="PASSREADACCESS.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
